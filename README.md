@@ -1,7 +1,7 @@
  # 🚀 Kee3 
- ## DeFi Oracle Risk Scanner
+ # DeFi Oracle Risk Scanner
 
-# 📌 Introduction
+## 📌 Introduction
 
 In modern decentralized finance (DeFi), smart contracts rely heavily on external data such as asset prices. This data is provided through oracles, which connect blockchain systems with real-world information.
 
@@ -9,7 +9,7 @@ However, improper handling of price data and flawed business logic can lead to c
 
 ---
 
-# 🪙 What is Cryptocurrency?
+## 🪙 What is Cryptocurrency?
 
 Cryptocurrency is a digital currency that operates on blockchain technology. Unlike traditional systems, it is:
 
@@ -24,7 +24,7 @@ Examples:
 
 ---
 
-# 🔐 OWASP Top 10 (Blockchain Context)
+## 🔐 OWASP Top 10 (Blockchain Context)
 
 This project is inspired by common smart contract vulnerabilities similar to OWASP risks.
 
@@ -40,7 +40,7 @@ A vulnerability where attackers manipulate the price feed used by smart contract
 
 ---
 
-#🔹 Business Logic Errors
+##🔹 Business Logic Errors
 
 These occur when the application logic is flawed.
 
@@ -52,7 +52,7 @@ These occur when the application logic is flawed.
 
 ---
 
-# ⚠️ Problem Statement
+## ⚠️ Problem Statement
 
 Smart contracts trust external price feeds.
 If the price data is manipulated, the system may:
@@ -63,7 +63,7 @@ If the price data is manipulated, the system may:
 
 ---
 
-# 🛠️ About Kee3
+## 🛠️ About Kee3
 
 Kee3 is a Python-based security tool that detects potential price manipulation risks by comparing:
 
@@ -72,7 +72,7 @@ Kee3 is a Python-based security tool that detects potential price manipulation r
 
 ---
 
-# ⚙️ How It Works
+## ⚙️ How It Works
 
 1. User inputs a cryptocurrency (e.g., Ethereum)
 2. Tool fetches:
@@ -88,7 +88,7 @@ Difference| Risk Level
 
 ---
 
-# 📊 Example Output
+## 📊 Example Output
 
 Coin: ETHEREUM
 Oracle Price: $2341
@@ -98,7 +98,7 @@ Status: Low Risk
 
 ---
 
-# 👥 Who Can Use This Tool?
+## 👥 Who Can Use This Tool?
 
 - 🧑‍💻 DeFi Developers
 - 🔍 Security Researchers
@@ -108,7 +108,7 @@ Status: Low Risk
 
 ---
 
-# 🎯 Use Cases
+## 🎯 Use Cases
 
 - Detect oracle manipulation risks
 - Analyze price inconsistencies
@@ -117,7 +117,7 @@ Status: Low Risk
 
 ---
 
-# 💡 Benefits
+## 💡 Benefits
 
 - Simple and easy to use
 - Real-time price comparison
@@ -127,7 +127,7 @@ Status: Low Risk
 
 ---
 
-# 🧪 Tech Stack
+## 🧪 Tech Stack
 
 - Python
 - CoinGecko API
@@ -135,7 +135,7 @@ Status: Low Risk
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Integration with DEX (Uniswap)
 - Flash loan detection
@@ -144,14 +144,14 @@ Status: Low Risk
 
 ---
 
-# 🏁 Conclusion
+## 🏁 Conclusion
 
 Kee3 is a foundational step towards building advanced DeFi security tools.
 It demonstrates how simple comparisons can help identify complex vulnerabilities in blockchain systems.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Manasvi  
 Cybersecurity & Blockchain Enthusiast
