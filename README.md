@@ -152,4 +152,6 @@ It demonstrates how simple comparisons can help identify complex vulnerabilities
 
 👨‍💻 Author
 
-Manasvi 
+Developed by Wish Tiwari  
+Cybersecurity & Blockchain Enthusiast
+
