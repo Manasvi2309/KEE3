@@ -40,7 +40,7 @@ A vulnerability where attackers manipulate the price feed used by smart contract
 
 ---
 
-##🔹 Business Logic Errors
+## 🔹 Business Logic Errors
 
 These occur when the application logic is flawed.
 
